@@ -1,7 +1,7 @@
 # numpy-assignment
-# Numpy and Python Assignments
+# Numpy Assignment
 
-This repository contains two Jupyter Notebook assignments submitted as part of [Course Name].
+This repository contains a Jupyter Notebook assignment submitted as part of (Machine Learning and Generative AI ) Title: NumPy Assignment.
 
 ## Contents
 
